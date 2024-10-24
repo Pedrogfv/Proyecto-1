@@ -1,4 +1,5 @@
 # Proyecto-1
+Crearemos una base de datos ficticioa que utilizaremos como base para crear el proceso de extracción de datos de la base de datos real.
 A través de excel, iniciaremos creando filtros con fórmulas para revisar nuestros precios de los productos para saber, si vale la pena modificarlos y a cuanto.
 Tomaremos los siguientes filtros que se les aplicaran a los precios de los productos que pasen por este proceso. Con la idea de ir filtrando los productos hasta llegar a los que queremos modificar su precio.
 
